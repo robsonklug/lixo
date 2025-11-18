@@ -1,3 +1,7 @@
+# A biblioteca Streamlit é uma ferramenta de código aberto em Python que serve para criar e fazer deploy de aplicações 
+# de ciência de dados e machine learning interativas de forma rápida e simples, usando apenas código Python. 
+# Ela transforma scripts Python comuns em aplicativos web visualmente atraentes, sem a necessidade de conhecimento em HTML, CSS ou JavaScript.
+
 import streamlit as st
 import pandas as pd
 import joblib
