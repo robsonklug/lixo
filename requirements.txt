@@ -1,0 +1,14 @@
+pandas
+openpyxl
+scikit-learn
+streamlit
+joblib
+numpy
+plotly
+langchain
+langchain-openai
+langchain-experimental
+pandas-datareader
+langchain-community 
+langchain-core
+tabulate
